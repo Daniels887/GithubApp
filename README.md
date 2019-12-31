@@ -1,5 +1,5 @@
 # GithubApp
-<img src="https://github.com/Daniels887/GithubApp/blob/master/Telas/Main.PNG" alt="Splash" width="400" height="400" />
+<img src="https://github.com/Daniels887/GithubApp/blob/master/Telas/Main.PNG" alt="Splash" width="865" height="400" />
 ## Depêndencias e ferramentas utilizadas
 * Axios
 * LocalStorage
