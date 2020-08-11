@@ -15,4 +15,6 @@
 * Npm install ou Yarn
 * Npm start ou yarn start
 
+<img src="https://github-readme-stats.vercel.app/api?username=Daniels887&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" />
+
 > Que a sorte esteja com você :muscle:
